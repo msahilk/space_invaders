@@ -1,0 +1,3 @@
+/home/sahil/CLionProjects/space-invaders/cmake-build-debug/CMakeFiles/space_invaders.dir
+/home/sahil/CLionProjects/space-invaders/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sahil/CLionProjects/space-invaders/cmake-build-debug/CMakeFiles/rebuild_cache.dir
