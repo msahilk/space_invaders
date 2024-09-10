@@ -8,11 +8,11 @@ Shoot down the aliens and go for the high score as fast as possible!
 
 Instructions:
 
-Clone the repo to your local machine
-Install GL, GLEW, and glfw C++ libraries
-Compile and run!
+Clone the repo to your local machine </br>
+Install GL, GLEW, and glfw C++ libraries </br>
+Compile and run! </br>
 
 Controls:
 
-Left and Right arrow keys: Move left and right
+Left and Right arrow keys: Move left and right </br>
 Spacebar: Shoot
