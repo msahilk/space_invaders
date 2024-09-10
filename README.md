@@ -4,4 +4,4 @@ A barebones recreation of the classic Space Invaders game in C++ using the OpenG
 
 Shoot down the aliens and go for the high score as fast as possible!
 
-<img src="[https://imgur.com/a/MehvTYH](https://i.imgur.com/kYZgTcb.gif)"/>
+<img src="https://i.imgur.com/kYZgTcb.gif"/>
